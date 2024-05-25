@@ -27,7 +27,7 @@ public class TestCases {
     public  void testCase01(){
         System.out.println("Start Test case: testCase01");
         driver.get("https://www.google.com");
-        System.out.println("end Test case: testCase02");
+        System.out.println("end Test case: testCase01");
     }
 
 
